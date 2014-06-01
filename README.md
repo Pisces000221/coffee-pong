@@ -19,9 +19,11 @@ Our lovely CoffeeScript made it super simple. Follow these steps:
 
 **2 Open the browser**
 
-2 a) If you are very bored, open your browser and drag `index.html` into the window.
+2 a) If you are extremely bored, open your browser and type the full path of `index.html` in the address bar.
 
-2 b) Otherwise, double-click the file `index.html` in Explorer, nautilus or Finder, or something else.
+2 b) If you are very bored, open your browser and drag `index.html` into the window.
+
+2 c) Otherwise, double-click the file `index.html` in Explorer, nautilus or Finder, or something else.
 
 **3 Ready to run**
 
